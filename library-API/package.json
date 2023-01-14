@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mongodb": "^4.13.0",
+    "mongoose": "^6.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "my-library-project",
+  "version": "1.0.0",
+  "description": "This is a spare time project",
+  "main": "app.js",
+  "keywords": [
+    "library",
+    "node.js",
+    "js"
+  ],
+  "author": "catarina candido",
+  "license": "ISC"
+}
